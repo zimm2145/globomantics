@@ -1,0 +1,14 @@
+---
+ACCNT100:
+  paid: 250
+  due: 120
+ACCNT200:
+  paid: 520
+  due: -120
+ACCNT300:
+  paid: 200
+  due: 0
+ACCNT400:
+  paid: 0
+  due: 0
+...
